@@ -30,7 +30,7 @@ The dashboard uses **interactive Pivot Tables and Charts** in Excel to explore k
 The dataset includes **3,547 transactions** with details such as:
 Transaction ID, Date & Time, Coffee Type, Quantity, Price, Total Amount, Payment Type  
 
-[Download Dataset](https://github.com/NasiraShaik/Coffee-Shop-Sales-Dashboard/blob/main/Coffee_Shop_Sales.xlsx)
+[Download Dataset]https://github.com/NasiraShaik/Coffee_Shop_Sales_Dashboard_Using_Excel/blob/main/coffee_sales.xlsx
 
 ---
 
@@ -71,7 +71,7 @@ The Excel dashboard includes:
 - **Interactive Pivot Charts**: Coffee Type, Sales by Day of Week, Hourly Sales, Monthly Trend, Payment Type  
 - **Slicer: Year** to dynamically filter insights based on transaction year  
 
-![Dashboard Screenshot](https://github.com/NasiraShaik/Coffee-Shop-Sales-Dashboard/blob/main/Screenshot.png)
+![Dashboard Screenshot]
 
 ---
 
