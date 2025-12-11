@@ -71,7 +71,7 @@ The Excel dashboard includes:
 - **Interactive Pivot Charts**: Coffee Type, Sales by Day of Week, Hourly Sales, Monthly Trend, Payment Type  
 - **Slicer: Year** to dynamically filter insights based on transaction year  
 
-![Dashboard Screenshot]https://github.com/NasiraShaik/Coffee_Shop_Sales_Dashboard_Using_Excel/blob/main/Screenshot%20(116).png
+[Dashboard Screenshot]https://github.com/NasiraShaik/Coffee_Shop_Sales_Dashboard_Using_Excel/blob/main/Screenshot%20(116).png
 
 ---
 
